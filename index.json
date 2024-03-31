@@ -1,0 +1,23 @@
+[
+{
+        "name": "Tachiyomi: MangaLek | Edited",
+        "pkg": "eu.kanade.tachiyomi.ar.mangalek",
+        "apk": "tachiyomi-ar.mangalek-v1.4.37.apk",
+        "lang": "ar",
+        "code": 36,
+        "version": "1.4.37",
+        "nsfw": 0,
+        "hasReadme": 0,
+        "hasChangelog": 0,
+        "sources": [
+            {
+                "name": "MangaLek | Edited",
+                "lang": "ar",
+                "id": "918460697583900080",
+                "baseUrl": "https://lekmanga.net/",
+                "versionId": 1,
+                "hasCloudflare": 1
+            }
+        ]
+    }
+]
